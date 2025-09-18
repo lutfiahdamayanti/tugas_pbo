@@ -11,7 +11,8 @@ public class MataKuliah {
     }
 
     public void showMataKuliah() {
-
+        System.out.println(("nama: " + this.namaMatkul));
+        System.out.println(("sks: " + this.sks));
     }
     
 }
