@@ -1,10 +1,10 @@
 public class MataKuliahTest {
 
     public static void main(String[] args) {
-        MataKuliah matkul1 = new MataKuliah("Pemrograman web lanjut", 4);
+        MataKuliah matkul1 = new MataKuliah("Metode Numerik", 2, "Putik Rustika");
         matkul1.showMataKuliah();
 
-        MataKuliah matkul2 = new MataKuliah("Pemrograman berorientasi objek", 3);
+        MataKuliah matkul2 = new MataKuliah("Pemrograman Web Lanjut", 3, "Fachrul");
         matkul2.showMataKuliah();
     }
 
