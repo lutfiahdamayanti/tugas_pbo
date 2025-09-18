@@ -1,3 +1,3 @@
-public class matkulTest {
+public class MatkulTest {
     
 }
