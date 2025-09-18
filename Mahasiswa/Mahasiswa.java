@@ -1,5 +1,3 @@
-package Mahasiswa;
-
 public class Mahasiswa {
     public String nama;
     public String nim;
